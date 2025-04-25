@@ -27,6 +27,8 @@ To play:
 1. Clone/download the repository.
 2. Open the `index.html` file in your browser.
 3. Start clicking the central button to gain points.
+  Or..
+Join on site allchar.github.io
 
 ---
 
