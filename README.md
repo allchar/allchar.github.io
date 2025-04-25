@@ -3,7 +3,7 @@
 A minimalist browser-based clicker game designed for instant entertainment. Challenge yourself to accumulate as many clicks as possible and beat your high scores!
 
 <div align="center">
-  <img src="assets/dark-clicker-screencap.png" alt="Nothing screenshot" width="600"/>
+  <img src="assets/nothing.png" alt="Nothing screenshot" width="600"/>
 </div>
 
 ---
